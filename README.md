@@ -1,4 +1,4 @@
-# Enumeraci-nUsuario
+# Enumeracion-Usuario
 Author: Kiz4ru.
 Enumeracion de usuario en Wordpress 4.9.4.
 Este script explota una vulnerabilidad en wordpress 4.9.4 que podemos encontrar los usuarios de la pagina web.
