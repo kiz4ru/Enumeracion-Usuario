@@ -14,7 +14,7 @@
 # En Wordpress 4.9.4 podemos encontrar todos los usuarios de la web
 # Dirección: wp-json/wp/v2/users/
 # La razón de esta vulnerabilidad es que wordpress no encripta el json source.
-# Comando : perl username.pl
+# Comando : perl user.pl
 
 
 use LWP::UserAgent;
