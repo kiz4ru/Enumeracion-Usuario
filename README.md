@@ -9,7 +9,7 @@ dirección (wp-json/wp/v2/users/) nos mostrara lo que se encuentra dentro de ell
 # Uso:
 perl user.pl
 
-# DATOS:
+# Datos:
 Software Link: https://wordpress.org/download/
 Version : 4.9.4
 Fecha : 17 Feb 2018
